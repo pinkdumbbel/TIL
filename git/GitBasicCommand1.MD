@@ -2,7 +2,7 @@
 
 ---
 
-## Command1 - `git status`
+## `git status`
 
 > 현재 작업중인 파일들의 상태를 확인하는 명령어
 
@@ -21,7 +21,7 @@
 
 ---
 
-## Command2 - `git add`
+## `git add`
 
 > WorkingDirectory(로컬)에서 작업중인 파일들(untracked 상태)을 staging area(traked 상태)로 옮기는 명령어
 
@@ -38,7 +38,7 @@
 
 ---
 
-## Command3 - `git commit`
+## `git commit`
 
 > staging area에 저장되어 있는 변경사항들을 Git Directory로 옮기며 실질적인 버전 히스토리를 만드는 명령어
 
