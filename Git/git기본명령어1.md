@@ -51,6 +51,8 @@
 - `-m 'COMMIT MESSAGE'`: 커밋 명령어의 실행과 함께 메시지도 같이 작성하는 옵션
 - `-am 'COMMIT MESSAGE'`: Working Directory에서 작업한 단위 전부 작성된 메시지와 함께 staging area에 저장하면서 커밋하는 옵션
 
+- `--amend`: 가장 최근 커밋 수정
+
 ---
 
 ## 번외 - `.gitignore`
